@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on Front-End development
 - 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate with beginners
-- 🤔 I’m looking for help with React.js
-- 😄 Pronouns: he/him
+
 
 <div>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=webdevcampos" />
